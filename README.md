@@ -23,34 +23,15 @@ SamRewritten is always evolving, we would be thrilled to listen to your feedback
 ### ⚠️ SamRewritten only works if Steam has been installed through your package manager (apt, pacman, ...). 
 ### ⚠️ Flatpak is *not* supported but contributions are welcome!
 
-# Installation
+# How to run the application
+1.Extract the SamRewritten.tar.xz archive to a folder of choice
+2.Open the bin folder
+3.Run samrewritten
 
-AppImage downloads are readily available from [the releases tab](https://github.com/PaulCombal/SamRewritten/releases).
+This repository will be deleted if the AppImage package gets fixed ❗❗❗
 
-Arch users can install SamRewritten from the AUR by installing the `samrewritten-git` package.
-Run SamRewritten by opening the corresponding desktop entry, or by using the `samrewritten` command.
-
-On Gentoo, SamRewritten is available as `games-util/samrewritten` through [the GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU).
-
-# Building
-
-To build this project from source, clone and enter this repository, and run `make`.
-For Arch users, there is also a PKGBUILD within the `package` folder if you wish to build it using `makepkg`.
-
-If you're encountering issues building SamRewritten, make sure you have installed the required packages on your machine. You'll most likely need Steam, curl, yajl, GTK 3, and GLib.
-
-* **Ubuntu 18.04** and above: `$ sudo apt install libgtkmm-3.0-dev libcurl4-gnutls-dev libyajl-dev`
-
-* **Arch** and variants: `$ sudo pacman -S gtkmm3 glibc gnutls yajl`
-
-* **openSUSE** Tumbleweed, Leap 15.2+: `$ sudo zypper install gtkmm3 gcc-c++ gnutls libcurl-devel libyajl-devel-static`
-
-* **Fedora 32+**: `$ sudo dnf install gtkmm30 gtkmm30-devel yajl-devel curl-devel g++`
-
-
-To run your SamRewritten build, use `$ ./bin/launch.sh`
-
-To build your own AppImage, build SamRewritten normally, then execute `build_appimage.sh` from the `package` folder. A new AppImage will be generated with libraries from your system.
+Original application made by: https://github.com/PaulCombal/
+I dont take any credit for the application everything is made by PaulCombal and like I said before this repository will be erased once the AppImage package on the original repository is fixed. (By fixed I mean https://github.com/PaulCombal/SamRewritten/issues/164#issuecomment-1952904720)
 
 # Features
 
