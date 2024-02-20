@@ -28,7 +28,7 @@ SamRewritten is always evolving, we would be thrilled to listen to your feedback
 2.Open the bin folder
 3.Run samrewritten
 
-This repository will be deleted if the AppImage package gets fixed ❗❗❗
+This repository will be erased if the AppImage package gets fixed ❗❗❗
 
 Original application made by: https://github.com/PaulCombal/
 I dont take any credit for the application everything is made by PaulCombal and like I said before this repository will be erased once the AppImage package on the original repository is fixed. (By fixed I mean https://github.com/PaulCombal/SamRewritten/issues/164#issuecomment-1952904720)
