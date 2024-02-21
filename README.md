@@ -25,7 +25,9 @@ SamRewritten is always evolving, we would be thrilled to listen to your feedback
 
 # How to run the application
 1.Extract the SamRewritten.tar.xz archive to a folder of choice
+
 2.Open the bin folder
+
 3.Run launch.sh
 
 This repository will be erased once the AppImage package on the original repository is fixed ❗❗❗
